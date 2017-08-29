@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Hindsight20200.data.unityweb",
+"asmCodeUrl": "Hindsight20200.asm.code.unityweb",
+"asmMemoryUrl": "Hindsight20200.asm.memory.unityweb",
+"asmFrameworkUrl": "Hindsight20200.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
