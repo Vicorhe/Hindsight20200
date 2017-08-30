@@ -55,9 +55,9 @@ F.	Split Tasks among Members
 
 ```
 	i.		Yimeng Yang: 	Half of level design
-	ii.		Noel Line: 		The other half of platform design
-	iii.	Luis Calona: 	Character design and mechanics
-	iv.		Victor He: 		Pixel art and deployment
+	ii.		Noel Lin: 	The other half of platform design
+	iii.		Luis Calona: 	Character design and mechanics
+	iv.		Victor He: 	Pixel art and deployment
 ```
 
 G.	Explore, Research, Implement, and Repeat
@@ -78,18 +78,18 @@ N.	Post this Document in README
 
 ## About The Team:
 	```
-	A.	Yimeng Yang: 	iceberg lettuce
-	```
+	A.Yimeng Yang: 	iceberg lettuce
 	
-	```
-	B.	Luis Calona: 	Lit Future
-	```
+	
+	
+	B.Luis Calona: 	Lit Future
+	
 
-	```
-	C.	Noel Lin: 		cats, starloard
-	```
+	
+	C.Noel Lin: 	cats, starloard
+	
 
-	```
-	D.	Victor He: 		ORAORAORAORA, rerorerorero, soylent, rice
+	
+	D.Victor He: 	ORAORAORAORA, rerorerorero, soylent, rice
 	```
 
