@@ -1,25 +1,48 @@
 <!DOCTYPE html>
 <html lang="en-us">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Unity WebGL Player | 2D PlatformerController</title>
-    <link rel="shortcut icon" href="TemplateData/favicon.ico">
-    <link rel="stylesheet" href="TemplateData/style.css">
-    <script src="TemplateData/UnityProgress.js"></script>  
-    <script src="Build/UnityLoader.js"></script>
-    <script>
-      var gameInstance = UnityLoader.instantiate("gameContainer", "Build/Hindsight20200.json", {onProgress: UnityProgress});
-    </script>
-  </head>
-  <body>
+  	<head>
+	    <meta charset="utf-8">
+	    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	    <title>San Diego Game Jam HindSight 20200</title>
+	    <link rel="shortcut icon" href="TemplateData/favicon.ico">
+	    <link rel="stylesheet" href="TemplateData/style.css">
+	    <script src="TemplateData/UnityProgress.js"></script>  
+	    <script src="Build/UnityLoader.js"></script>
+	    <script>
+	      	var gameInstance = UnityLoader.instantiate("gameContainer", "Build/Hindsight20200.json", {onProgress: UnityProgress});
+	    </script>
+	    <style type="text/css">
+	    	body{
+	    		font-family: Helvetica Neue,Helvetica,Arial,sans-serif; 
+	    		color: #c2e7d9;
+	    		background-color: #0f084b;
+	    	}
+	    </style>
+  	</head>
+  	<body>
+  
+  
     <div class="webgl-content">
-      <div id="gameContainer" style="width: 960px; height: 600px"></div>
-      <div class="footer">
-        <div class="webgl-logo"></div>
-        <div class="fullscreen" onclick="gameInstance.SetFullscreen(1)"></div>
-        <div class="title">2D PlatformerController</div>
-      </div>
-    </div>
-  </body>
+    	<h1 style="align: center;">San Diego Game Jam 2017 Submission: HindSight 20/200 </h1>
+    	<br>
+      	<div id="gameContainer" style="width: 960px; height: 600px"></div>
+	      	<div class="footer">
+	        	<div class="fullscreen" onclick="gameInstance.SetFullscreen(1)"></div>
+	        	<div class="title">
+		        	<br>
+		        	<h2>Objective: JOURNEY to ACHIEVE the COIN</h2>
+		        	<br>
+		        	<h2>Instructions</h2>
+		  			<p>1.Press Space Bar for Jumping</p>
+		  			<p>2.Press Arrow Keys for Directional Control</p>
+		  			<p>3.Have Fun</p>
+		  			<p>4.Try a Speed Run</p>
+		  			<p>5.Share to Your Friends</p>
+		  			<br>
+		  			<h2>For more details, Check the README file in the Git Hub Repository</h2>
+		  			<br>
+	  			</div>
+	      	</div>
+    	</div>
+  	</body>
 </html>
