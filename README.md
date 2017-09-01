@@ -11,17 +11,17 @@ If we knew Mario, Flappy Bird, and our other beloved childhood pastimes were goi
 
 ## Main Conceptual Reference: “There is only one level”
 ```
-A.	The game consists of the same level platform over and over again
+-	The game consists of the same level platform over and over again
 
-B.	There is the same objectives and destination
+-	There is the same objectives and destination
 
-C.	The variations of gameplay are shown thrown unique interactions with the environment, and different character controls
+-	The variations of gameplay are shown thrown unique interactions with the environment, and different character controls
 ```
 ## OUR SPIN
 A.	Beloved All Star Characters
 
 ```
-Flappy bird and Mario
+Flappy Bird and Mario
 ```
 B.	Custom Platform
 
@@ -30,7 +30,7 @@ C.	Tentative Game Name
 D.	Hosted on Multiple Platforms
 
 ```
-i.	GIT hub
+i.	Github Pages
 ii.	Itch.io
 ```
 
@@ -39,7 +39,7 @@ A.	Unity Framework
 
 B.	Visual Studio (for script editing)
 
-## Procedures:
+## Procedure:
 
 A.	Search for ideas, reminisce over fun games played in the past
 
@@ -54,10 +54,10 @@ E.	Version Control via GIT
 F.	Split Tasks among Members
 
 ```
-	i.		Yimeng Yang: 	Half of level design
-	ii.		Noel Lin: 	The other half of platform design
-	iii.		Luis Calona: 	Character design and mechanics
-	iv.		Victor He: 	Pixel art and deployment
+i.		Yimeng Yang: 	Half of level design
+ii.		Noel Lin: 	The other half of platform design
+iii.		Luis Calona: 	Character design and mechanics
+iv.		Victor He: 	Pixel art and deployment
 ```
 
 G.	Explore, Research, Implement, and Repeat
@@ -77,19 +77,19 @@ M.	Deploy on GitHub Pages
 N.	Post this Document in README
 
 ## About The Team:
-	```
-	A.Yimeng Yang: 	iceberg lettuce
+	
+	Yimeng Yang: 	Iceberg Lettuce
 	
 	
 	
-	B.Luis Calona: 	Lit Future
-	
-
-	
-	C.Noel Lin: 	cats, starloard
+	Luis Calona: 	Lit Future, Macaroni and Cheese
 	
 
 	
-	D.Victor He: 	ORAORAORAORA, rerorerorero, soylent, rice
-	```
+	Noel Lin: 	Cats, Starlord
+	
+
+	
+	Victor He: 	ORAORAORAORA, RERORERORERO, Soylent, Rice
+	
 
