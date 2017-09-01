@@ -54,10 +54,10 @@ E.	Version Control via GIT
 F.	Split Tasks among Members
 
 ```
-i.		Yimeng Yang: 	Half of level design
-ii.		Noel Lin: 	The other half of platform design
-iii.		Luis Calona: 	Character design and mechanics
-iv.		Victor He: 	Pixel art and deployment
+i.	Yimeng Yang: 	Half of level design
+ii.	Noel Lin: 	The other half of platform design
+iii.	Luis Calona: 	Character design and mechanics
+iv.	Victor He: 	Pixel art and deployment
 ```
 
 G.	Explore, Research, Implement, and Repeat
